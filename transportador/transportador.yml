@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: root
-    username: root
+    password: alura
+    username: alura123
     url: 'jdbc:mysql://localhost:3307/transportador'
   jpa:
     hibernate:
